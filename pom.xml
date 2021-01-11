@@ -6,7 +6,7 @@
       <webResources>
         <resource>
           <!-- this is relative to the pom.xml directory -->
-          <directory>src/main/resources/My-Web-Project/web</directory>
+          <directory>C:\Users\boss\Shiva\Java\jenkins\workspace\Deploy2\pom.xml</directory>
         </resource>
       </webResources>
     </configuration>
